@@ -1,4 +1,4 @@
-# LLM-SCD: Performance of Open-Source Large Language Models in Smart Contract Vulnerability Detection
+# Performance of Open-Source Large Language Models in Smart Contract Vulnerability Detection
 
 **🔬 An Open-Source Project for Evaluating LLMs in Smart Contract Vulnerability Detection**  
 **📅 Project Status: Research Completed, All experimental data and methods are open source.**
