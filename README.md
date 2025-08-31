@@ -45,14 +45,13 @@ Open-Source-LLM-SmartContract/
 ## 📜 License
 
 The project is open-sourced under the Apache 2.0 License. For details, please see the LICENSE file.
-
 ---
 
 ## 📬 Contact
 
 If you have any questions or collaboration intentions, please contact us:
 
-- 📧 Email: sunlianshan@sust.edu.cn
+- 📧 Email: sunlianshan@sust.edu.cn(Lianshan Sun);1241917171@qq.com (Diandong Liu)
 ---
 
 > "Promoting the integration of Large Language Models and blockchain security, making smart contract ecosystems safer and more reliable."
